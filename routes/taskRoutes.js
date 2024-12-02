@@ -1,6 +1,6 @@
 const express = require("express");
 const TaskService = require("../domain/Task/TaskService");
-const { validateTask } = require("../middlewares/taskValidation");
+const { validateTask } = require("../middleware/taskValidation");
 
 const taskRouter = express.Router();
 

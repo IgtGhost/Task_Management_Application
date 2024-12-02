@@ -1,7 +1,7 @@
 const axios = require("axios");
 const Task = require("./Task");
 
-const apiUrl = process.env.API_URL || "http://localhost:5000";
+const apiUrl = process.env.API_URL || "http://localhost:3000";
 
 class TaskService {
     constructor() {}

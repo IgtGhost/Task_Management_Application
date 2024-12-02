@@ -1,7 +1,7 @@
 const axios = require("axios");
 const Category = require("./Category");
 
-const apiUrl = process.env.API_URL || "http://localhost:5000";
+const apiUrl = process.env.API_URL || "http://localhost:3000";
 
 class CategoryService {
     constructor() {}

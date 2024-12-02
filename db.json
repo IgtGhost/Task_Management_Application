@@ -1,5 +1,10 @@
 {
-	"tasks": [],
-	"categories": [],
-	"users": []
+  "tasks": [],
+  "categories": [],
+  "users": [
+    {
+      "id": "1",
+      "username": "dhruv"
+    }
+  ]
 }
